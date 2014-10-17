@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[geq:home|Door43 (geq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-geq|d43-geq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-geq/archive/master.zip|d43-geq.zip]]
+
+**Recent Changes**
+{{changes>ns = geq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/geq|Ethnologue data]]
+
